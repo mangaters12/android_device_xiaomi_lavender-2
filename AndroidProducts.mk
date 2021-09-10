@@ -1,7 +1,7 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/banana_lavender.mk
+    $(LOCAL_DIR)/awaken_lavender.mk
 
 COMMON_LUNCH_CHOICES := \
-    banana_lavender-user \
-    banana_lavender-userdebug \
-    banana_lavender-eng
+    awaken_lavender-user \
+    awaken_lavender-userdebug \
+    awaken_lavender-eng
